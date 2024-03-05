@@ -6,8 +6,7 @@
 
 The presentation's name should be something like e.g.:
 
-- [ ] Mechanical Keyaboards 101
-- [ ] Keyaboards 101: From mechanical to ergonomic
+- [ ] Keyaboards 101: From mechanical to custom
 
 ## Content and Chapters
 
@@ -15,10 +14,12 @@ The presentation's name should be something like e.g.:
 - First mechanical keyboards
 - Switches (Cherry MX, and newer ones)
   - Mention cherry's license
+  - Different types of switches (red, brown, blue - linear, tactile, clicky - silent switches)
   - Optical switches
-- Better switch sound
+- Better sound
   - Lubing
-  - Modding (tape, materials, key caps, foaming)
+  - Modding (tape, foaming)
+  - Better materials, e.g.: PBT keycaps
 - Basic split keyboards, and why they're better (wrist pain)
 - Fully split keyboards, and why they're even better (shoulder pain)
 - What next? Layouts (2D)
@@ -26,13 +27,15 @@ The presentation's name should be something like e.g.:
     - Why columnar is better? (Iris, and other keyboards)
   - Ortholinear
 - What NEXT? Layouts, but in 3D 🫣
-  - Kinsis 360/Advantage Pro/etc.
+  - Kinesis 360/Advantage Pro/etc.
   - Very erogonomic very expensive
 - WHAT NEEEEXT? Layers (how to avoid moving your hands around (spoiler: 'cause u don't have to lol))
   - Software based layouts are shit... WHY? Because there are these mfs: Via, QMK, ZMK
-- GOD LEVEL, BUT WORTH IT? Stop using qwerty? Is it really worth it? Why is qwerty bad?
+- GOD LEVEL, BUT WORTH IT? Stop using QWERTY? Is it really worth it? Why is QWERTY bad? Why using different layout can be troublesome
 
 ## Other
 
 Should present as many keyboards as possible (As I have some 👀)
 Should bring my switch tester, and other tools like lube, switch opener, etc.
+Should add typing CAT gif
+Try to make it funny
