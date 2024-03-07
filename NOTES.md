@@ -6,7 +6,7 @@
 
 The presentation's name should be something like e.g.:
 
-- [ ] Keyaboards 101: From mechanical to custom
+- [x] Keyaboards 101: From mechanical to custom
 
 ## Content and Chapters
 
