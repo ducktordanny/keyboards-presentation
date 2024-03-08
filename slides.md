@@ -71,6 +71,7 @@ Different colors, represent:
 
 - Choose the most convenient for you (linear, tactile, clicky)
 - Have the right pressing weight
+  - Heavier ones may be too much for you at first
 - Is it pre-lubed?
 
 ===
@@ -91,7 +92,7 @@ Yep
 
 There are lots of factors, e.g.:
 
-- Material of keycaps
+- Material of keycaps (e.g. PBT)
 - Material of case
 - Material of plate
 - Gasket
@@ -99,4 +100,118 @@ There are lots of factors, e.g.:
 
 ===
 
-<img src="./assets/4-5-keyboard-building-parts.jpeg" alt="Keyboard building parts" />
+<img src="./assets/4-5-gasket-explanation.jpeg" alt="Keyboard gasket explanation" />
+
+===
+
+<img src="./assets/4-6-keyboard-building-parts.jpeg" alt="Keyboard building parts" />
+
+---
+
+## Increase the comfort of typing
+
+<img src="./assets/5-1-comfort.jpeg" alt="Comfort" />
+
+===
+
+### Keycap profiles
+
+<img src="./assets/5-2-keycap-profiles.jpeg" alt="Keycap profiles" />
+
+===
+
+### Split keyboards
+
+E.g. Alice style
+
+<img src="./assets/5-3-keychron-alice.jpeg" alt="Keychron alice style" />
+
+===
+
+### Fully split keyboards
+
+<img src="./assets/5-4-iris-rev8.webp" alt="Iris fully split keyboard" />
+
+===
+
+### Staggers
+
+<img src="./assets/5-5-staggers.jpeg" alt="Stagger types" />
+
+===
+
+### AND THERE IS EVEN MORE!
+
+===
+
+### Staggering in 3D
+
+E.g. Kinesis keyboards
+
+<img src="./assets/5-6-kinesis.jpeg" alt="Kinesis keyboard" />
+
+---
+
+## Custom layouts and layers
+
+===
+
+### Layouts
+
+- QUERTY
+- QUERTZ
+- COLEMAK
+- DVORAK
+
+<img src="./assets/6-2-qwerty-dvorak.jpeg" alt="QWERTY vs DVORAK" />
+
+===
+
+### What are layers?
+
+We use it everyday! E.g.:
+
+- Standard layer
+- Shift layer
+
+But we can make custom ones!
+
+===
+
+### Programable keyboards
+
+===
+
+<img src="./assets/6-4-zmk.jpeg" alt="ZMK firmware" />
+
+===
+
+<img src="./assets/6-5-qmk.png" alt="QMK firmware" />
+
+===
+
+<img src="./assets/6-6-via.jpeg" alt="VIA" />
+
+===
+
+### My VIA demo
+
+<img src="./assets/6-7-VIA-demo.png" alt="My VIA" />
+
+---
+
+## Thank you!
+
+<img src="./assets/7-1-the-end.gif" alt="The End" />
+
+===
+
+### Summary
+
+- What are mechanical keyboards?
+- Works differently... But why get one?
+- How to have a good keyboard?
+- Increase the comfort of typing
+- Custom layouts and layers
+
+<u>Questions?</u>
