@@ -150,9 +150,32 @@ E.g. Kinesis keyboards
 
 <img src="./assets/5-6-kinesis.jpeg" alt="Kinesis keyboard" />
 
+===
+
+### But they're so weird... Why?
+
+We rarely ever use our thumbs on regular keyboard
+
+<img src="./assets/5-7-thumb.jpeg" alt="Pain Herold thumbs up" />
+
+===
+
+These keyboards:
+
+- Fix this problem
+- Prevent shoulder pain
+- Less moving hands and use of our pinky
+- Give more opportunities for layers
+
+===
+
+### AND
+
+<img src="./assets/5-9-space-between.gif" alt="Space between splits" />
+
 ---
 
-## Custom layouts and layers
+## Other layouts and custom layers
 
 ===
 
@@ -174,6 +197,12 @@ We use it everyday! E.g.:
 - Standard layer
 - Shift layer
 
+There are more types of layers
+
+- Hold (Shift)
+- Toggle (Caps Lock)
+- Hold duration (Mac special characters)
+
 But we can make custom ones!
 
 ===
@@ -194,9 +223,15 @@ But we can make custom ones!
 
 ===
 
+### Software based layout changes
+
+<img src="./assets/6-7-karabiner-elements-logo.png" alt="My VIA" />
+
+===
+
 ### My VIA demo
 
-<img src="./assets/6-7-VIA-demo.png" alt="My VIA" />
+<img src="./assets/6-8-VIA-demo.png" alt="My VIA" />
 
 ---
 
